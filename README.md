@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Đặng Huỳnh Sơn</h1>
+<h1 align="center">Hi 👋, I'm Dang Huynh Son</h1>
 <h3 align="center">I am pursuing a degree in Information Technology at Ho Chi Minh City University of Technology and Education.</h3>
 
 - 🌱 I’m currently learning **Spring**
