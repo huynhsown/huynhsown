@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sondanghuynh@gmail.com**
 
-- 🎲 Fun fact **I like cat :))**
+- 🎲 Fun fact **I like cats :))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
